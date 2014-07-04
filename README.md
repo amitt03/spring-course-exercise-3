@@ -4,7 +4,7 @@ Exercise 3
 
 Have a look at the project, it has been restructed a bit<br/>
 - **dao** package<br>
-  Contains book and user dao for performing data-store operations **(DO NOT EDIT PACKAGE CONTENT)**
+  Contains book and member dao for performing data-store operations **(DO NOT EDIT PACKAGE CONTENT)**
 - **model** package<br/>
   Contains the data structures that are used to model our library **(DO NOT EDIT PACKAGE CONTENT)**
 - **BookAnalyzer** class<br/>
