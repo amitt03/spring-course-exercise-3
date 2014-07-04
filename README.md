@@ -36,4 +36,3 @@ Have a look at the project, it has been restructed a bit<br/>
 - [ ] **Use** @ComponentScan
 - [ ] Check the log
 
-
